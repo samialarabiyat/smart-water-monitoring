@@ -48,9 +48,8 @@ This project provides an end-to-end prototype for detecting water leakage, monit
 
 ## 📬 Contact
 
-Developed by **Abdallah Al-Hayari**  
-📧 abdallhalheyari@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdallah-alhyari-0187382a1) | [GitHub](https://github.com/alhyari29)
+Developed by **SAMI ARABIYAT**  
+📧 sami.arabiyat711@gmail.com  
 
 ---
 
